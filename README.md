@@ -1,7 +1,4 @@
-# API-SENTIMENT-PROYECT 
-
-![Image](/images/covidvaccine.jpg)
-
+# API-SENTIMENT-PROYECT 📱🥳
 
 
 
