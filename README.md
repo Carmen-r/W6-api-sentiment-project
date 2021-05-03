@@ -47,3 +47,5 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 [Dotenv]:[id]
 
 [id]: https://pypi.org/project/python-dotenv/
+
+
