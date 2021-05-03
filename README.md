@@ -54,7 +54,7 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 ## PROYECT 🧪
 
-1.Import and clean a [Kaggle][id] dataset about the tweets of Covid Vaccines around the world
+1.Import and clean a [Kaggle][id] dataset about the tweets of Covid Vaccines around the world.
 [id]: https://www.kaggle.com/ "Kaggle"
 
 2.Write an API using flask to receive tweets and store them in a database like mongodb 
@@ -66,10 +66,15 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 ### Endpoints
 
      "http://0.0.0.0:5000/tweets/**person**/": Gives the tweets of the person you select
+     
      "http://0.0.0.0:5000/favorites/**fav**/": Gives the tweets of the favorites numbers 
+     
      "http://0.0.0.0:5000/locations/**location**/": Gives the tweets of the location you select
+     
      "http://0.0.0.0:5000/dates/**date**/": Gives the tweets of the day you select
+     
      "http://0.0.0.0:5000/hashtags/**hashtag**": Gives the tweets of the hashtags you select
+     
      "http://0.0.0.0:5000/locations/**l**/dates/**d**/hashtags/**h**": Gives the tweets of the location, date and hashtag select
      
 
