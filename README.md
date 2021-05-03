@@ -1,6 +1,6 @@
 # API-SENTIMENT-PROYECT 📱🥳
 
-![Imagen](/vaccine.jpg)
+![Imagen_text](https://github.com/Carmen-r/W6-api-sentiment-project/blob/main/vaccines.jpg)
 
 ## GOAL ⚡️
 
