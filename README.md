@@ -1,5 +1,10 @@
 # API-SENTIMENT-PROYECT 
 
+[Image](/images/covidvaccine.jpg)
+
+
+
+
 ## GOAL ⚡️
 
 This is a proyect is design to work with Apis, mongo DB, and sentiment analysis
