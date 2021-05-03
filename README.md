@@ -15,3 +15,34 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 [id]: https://pandas.pydata.org/  "Pandas"
 
+[NumPy][id]
+
+[id]: https://numpy.org/ "NumPy"
+
+[Regex][id]
+
+[id]: https://docs.python.org/3/library/re.html "Regex"
+
+[TextBlob]:[id]
+
+[id]: https://textblob.readthedocs.io/en/dev/ "TextBlob"
+
+[Matplotlib]:[id]
+
+[id]: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html "Matplotlib"
+
+[Os]:[id]
+
+[id]: https://python101.pythonlibrary.org/chapter16_os.html
+
+[Request]:[id]
+
+[id]: https://docs.python-requests.org/en/master/
+
+[PyMongo]:[id]
+
+[id]: https://pymongo.readthedocs.io/en/stable/
+
+[Dotenv]:[id]
+
+[id]: https://pypi.org/project/python-dotenv/
