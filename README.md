@@ -86,7 +86,9 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 ### Sentiment&Visualization 
 
-1.Clean the text and separte the words 
+1.Clean the text and separte the words
+ 
 2.Sentimental Analysis with polarity and subjetivity, and emotion of the tweet. 
+
 3.Visualization of the sentiments.
 
