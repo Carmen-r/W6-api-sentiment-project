@@ -28,6 +28,10 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 [id]: https://textblob.readthedocs.io/en/dev/ "TextBlob"
 
+[WordCloud][id]
+
+[id]:https://pypi.org/project/wordcloud/ "WordCloud"
+
 [Matplotlib][id]
 
 [id]: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html "Matplotlib"
@@ -48,6 +52,24 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 [id]: https://pypi.org/project/python-dotenv/ "Dotenv"
 
-## Proyect
+## PROYECT 🧪
 
-Firstly, I chose a [kaggle][id] dataset on covid vaccines. [id]: https://www.kaggle.com/
+1.Import and clean a [Kaggle][id] dataset about the tweets of Covid Vaccines around the world
+[id]: https://www.kaggle.com/ "Kaggle"
+
+2.Write an API using flask to receive tweets and store them in a database like mongodb 
+
+3.Read and serve data from the chats database using different endpoints
+
+4.Extract the emotional value of tweets
+
+### Endpoints
+
+     "http://0.0.0.0:5000/tweets/**person**/": Gives the tweets of the person you select
+     "http://0.0.0.0:5000/favorites/**fav**/": Gives the tweets of the favorites numbers 
+     "http://0.0.0.0:5000/locations/**location**/": Gives the tweets of the location you select
+     "http://0.0.0.0:5000/dates/**date**/": Gives the tweets of the day you select
+     "http://0.0.0.0:5000/hashtags/**hashtag**": Gives the tweets of the hashtags you select
+     "http://0.0.0.0:5000/locations/**l**/dates/**d**/hashtags/**h**": Gives the tweets of the location, date and hashtag select
+     
+
