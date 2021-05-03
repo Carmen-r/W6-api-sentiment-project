@@ -11,5 +11,6 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 ## LIBRARIES
 
+[Pandas][id]
 [id]: https://pandas.pydata.org/  "Pandas"
 
