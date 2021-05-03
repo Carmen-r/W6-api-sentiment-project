@@ -1,6 +1,6 @@
 # API-SENTIMENT-PROYECT 📱🥳
 
-
+![Imagen](/vaccine.jpg)
 
 ## GOAL ⚡️
 
