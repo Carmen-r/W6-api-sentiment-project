@@ -1,16 +1,16 @@
-# API-SENTIMENT-PROYECT
+# API-SENTIMENT-PROYECT 
 
 ## GOAL ⚡️
 
 This is a proyect is design to work with Apis, mongo DB, and sentiment analysis
 The objetive of this proyect is to you create an API. The API will be able to receive information, store and serve it when you need.
 
-## WHAT WE NEED? TOOLS
+## WHAT IS NEED? TOOLS 👀
 
 Among other things for this project you need MongoDB, FLASK, collections, NLTK, pandas, functions.
 
 
-## LIBRARIES
+## LIBRARIES 🤓
 
 [Pandas][id]
 
@@ -55,6 +55,7 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 ## PROYECT 🧪
 
 1.Import and clean a [Kaggle][id] dataset about the tweets of Covid Vaccines around the world.
+
 [id]: https://www.kaggle.com/ "Kaggle"
 
 2.Write an API using flask to receive tweets and store them in a database like mongodb 
