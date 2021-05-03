@@ -64,7 +64,7 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 4.Extract the emotional value of tweets
 
-### Endpoints
+### Endpoints GET
 
      "http://0.0.0.0:5000/tweets/**person**/": Gives the tweets of the person you select
      
@@ -78,4 +78,15 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
      
      "http://0.0.0.0:5000/locations/**l**/dates/**d**/hashtags/**h**": Gives the tweets of the location, date and hashtag select
      
+
+### Enpoints POST
+
+    "http://0.0.0.0:5000/nuevafrase": Add a recent tweet
+
+
+### Sentiment&Visualization 
+
+1.Clean the text and separte the words 
+2.Sentimental Analysis with polarity and subjetivity, and emotion of the tweet. 
+3.Visualization of the sentiments.
 
