@@ -1,6 +1,6 @@
 # API-SENTIMENT-PROYECT 
 
-[Image](/images/covidvaccine.jpg)
+![Image](/images/covidvaccine.jpg)
 
 
 
