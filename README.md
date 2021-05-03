@@ -24,28 +24,30 @@ Among other things for this project you need MongoDB, FLASK, collections, NLTK, 
 
 [id]: https://docs.python.org/3/library/re.html "Regex"
 
-[TextBlob]:[id]
+[TextBlob][id]
 
 [id]: https://textblob.readthedocs.io/en/dev/ "TextBlob"
 
-[Matplotlib]:[id]
+[Matplotlib][id]
 
 [id]: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html "Matplotlib"
 
-[Os]:[id]
+[Os][id]
 
-[id]: https://python101.pythonlibrary.org/chapter16_os.html
+[id]: https://python101.pythonlibrary.org/chapter16_os.html "Os"
 
-[Request]:[id]
+[Request][id]
 
-[id]: https://docs.python-requests.org/en/master/
+[id]: https://docs.python-requests.org/en/master/ "Request"
 
-[PyMongo]:[id]
+[PyMongo][id]
 
-[id]: https://pymongo.readthedocs.io/en/stable/
+[id]: https://pymongo.readthedocs.io/en/stable/ "PyMongodb"
 
-[Dotenv]:[id]
+[Dotenv][id]
 
-[id]: https://pypi.org/project/python-dotenv/
+[id]: https://pypi.org/project/python-dotenv/ "Dotenv"
 
+## Proyect
 
+Firstly, I chose a [kaggle][id] dataset on covid vaccines. [id]: https://www.kaggle.com/
